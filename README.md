@@ -1,0 +1,2 @@
+# -multi-threaded-server-to-handle-http-requests
+ multi threaded server to handle http  requests. Since it can handle http requests, the client is a web browser .  when you start the server and  from the client computer  type http://ipno_of_the_server/index.html the thread on the server side should read the index.html  file and send it to the browser.   index.html contains a greeting message  "hello from  simple multi-threaded web server".
